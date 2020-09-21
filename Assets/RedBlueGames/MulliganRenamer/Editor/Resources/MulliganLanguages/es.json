@@ -9,7 +9,7 @@
         },
         {
             "key": "renameWarningNotRenamed",
-            "value": "Algunos objetos tienen alertas y no serán renombrados. ¿Deseas renombrar los otros objetos en el grupo?"
+            "value": "Algunos objetos tienen warnings y no serán renombrados. ¿Deseas renombrar los demás objetos del grupo?"
         },
         {
             "key": "warning",
@@ -21,7 +21,7 @@
         },
         {
             "key": "failToRenameMulligan",
-            "value": "Disculpe, algunos objetos fallaron en renombrar. Algo falló con Mulligan. Por favor reporte el error (vea el Manual del Usuario para detalles). Esta operación de renombrar será automaticamente reverida\n\n Error: "
+            "value": "Disculpe, algunos objetos no se pudieron renombrar. Algo falló con Mulligan. Por favor reporte el error (vea el Manual del Usuario para detalles). Esta operación de renombrar será automaticamente revertida\n\n Error: "
         },
         {
             "key": "error",
@@ -29,7 +29,7 @@
         },
         {
             "key": "presets",
-            "value": "Predefiniciones"
+            "value": "Presets"
         },
         {
             "key": "result",
@@ -37,11 +37,11 @@
         },
         {
             "key": "addOperation",
-            "value": "Agregar Operación"
+            "value": "Agregar operación"
         },
         {
             "key": "renameOperation",
-            "value": "Operaciión de Renombrar"
+            "value": "Operación de renombrar"
         },
         {
             "key": "language",
@@ -61,7 +61,7 @@
         },
         {
             "key": "managePresets",
-            "value": "Administrar Valores Predefinidos"
+            "value": "Administrar presets"
         },
         {
             "key": "errorUnrecognizedListButton",
@@ -85,7 +85,7 @@
         },
         {
             "key": "thankYouForPurchasing",
-            "value": "¡Gracias por comprar Mulligan! Si lo has encontrado útil, por favor considera dejarnos una reseña en la Asset Store. La tienda es muy competitiva y cada reseña nos ayuda a sobresalir. ¡Gracias!"
+            "value": "¡Gracias por comprar Mulligan! Si lo has encontrado útil, por favor considera dejarnos una reseña en la Asset Store. La tienda es muy competitiva y cada una nos ayuda a destacar. ¡Gracias!"
         },
         {
             "key": "openAssetStore",
@@ -93,7 +93,7 @@
         },
         {
             "key": "savePreset",
-            "value": "Guardar Valores Predefinidos"
+            "value": "Guardar valores predefinidos"
         },
         {
             "key": "previewSteps",
@@ -101,7 +101,7 @@
         },
         {
             "key": "noObjectsSpecified",
-            "value": "No hay objetos específicados para renombrar. Arraste los objetos para renombrarlos, o"
+            "value": "No se ha marcado ningun objeto para renombrar. Arrastra algunos objetos para renombrar, o"
         },
         {
             "key": "addMoreObjectsDragPanel",
@@ -145,11 +145,11 @@
         },
         {
             "key": "finalName",
-            "value": "Nombre Final"
+            "value": "Nombre final"
         },
         {
             "key": "addSelectedObjects",
-            "value": "Agregar Objetos Selecionados"
+            "value": "Agregar objetos selecionados"
         },
         {
             "key": "errorTryingToAccessModel",
@@ -169,11 +169,11 @@
         },
         {
             "key": "tryingToAddSpriteToRenamer",
-            "value": "Intentando agregar Sprite {0} para SpriteRenamer que tiene una ruta diferente a la textura que los otros sprites. Ruta recibida {1}, esperanda {2}"
+            "value": "Intentando agregar Sprite {0} para SpriteRenamer que tiene una ruta diferente a la textura que los otros sprites. Ruta recibida {1}, esperada {2}"
         },
         {
             "key": "errorTryingToAddSpriteToRenamer",
-            "value": "Intentando agregar Sprite para SpriteRenamer a la ruta {0}, pero archivo meta no existe en la ruta especificada."
+            "value": "Intentando agregar Sprite para SpriteRenamer a la ruta {0}, pero el archivo meta no existe en la ruta especificada."
         },
         {
             "key": "errorPresetNameAlreadyExists",
@@ -189,11 +189,11 @@
         },
         {
             "key": "errorTryintToGetOriginalName",
-            "value": "Intentando obter el nombre original para RenameResultSequence en el índice que está fuera de los límites. Índice: {0}"
+            "value": "Intentando obtener el nombre original para RenameResultSequence en el índice que está fuera de los límites. Índice: {0}"
         },
         {
             "key": "errorTryingToGetOriginalNameOutOfBounds",
-            "value": "Intentando obter el nombre original para RenameResultSequence en el índice que está fuera de los límites. Índice: {0}"
+            "value": "Intentando obtener el nombre original para RenameResultSequence en el índice que está fuera de los límites. Índice: {0}"
         },
         {
             "key": "add",
@@ -525,7 +525,7 @@
         },
         {
             "key": "addStringSequence",
-            "value": "Agregar secuencia de strings"
+            "value": "Agregar secuencia de cadenas"
         },
         {
             "key": "sequence",
@@ -549,7 +549,7 @@
         },
         {
             "key": "replacementString",
-            "value": "Reemplazar String"
+            "value": "Cadena de reemplazo"
         },
         {
             "key": "preferenceWindowTitle",
